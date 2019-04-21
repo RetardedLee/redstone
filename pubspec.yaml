@@ -9,7 +9,7 @@ authors:
 description: A metadata driven microframework for Dart
 homepage: http://redstonedart.org
 environment:
-  sdk: '>=1.13.0 <2.0.0'
+  sdk: '>=2.1.0 <3.0.0'
 dependencies:
   collection: "^1.2.0"
   di: "^3.3.9"
